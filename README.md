@@ -14,8 +14,8 @@ This repository contains the code and datasets used in the paper 'Benchmarking c
 
 ## Dataset
 
-1. 16 real scRNA-seq datasets with experimentally validated doublet annotations used in the benchmark are available at https://drive.google.com/drive/folders/1QEdDC_nxn9BvxypvwQV1lioE0d_aeAGI?usp=sharing.
+1. 16 real scRNA-seq datasets with experimentally validated doublet annotations used in the benchmark are available at 
+https://drive.google.com/drive/folders/1QEdDC_nxn9BvxypvwQV1lioE0d_aeAGI?usp=sharing.
 2. Synthetic datasets used in the benchmark, including varying doublet rates, cell types, sequencing depth, heterogeneity, cell clustering, and DE gene ananlysis, are available at 
-
 https://drive.google.com/drive/folders/19Yk35U1Onj6Y4-AuYuvwFYUrGL7ysiqJ?usp=sharing.
 3. The datasets of cell trajectory inference are available in the code file to conduct the analysis.
