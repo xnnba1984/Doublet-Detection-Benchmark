@@ -11,3 +11,7 @@ This repository contains the code to generate the result in the paper 'Benchmark
 5. trajectory: This folder contains the code to reproduce the effect of doublet-detection methods on cell trajectory and pseudo time inference analysis.
 6. distribute: This folder contains the code to measure the performance of doublet-detection methods under distributed computing.
 7. time: This folder contains the code to calcuate the running time of each doublet-detection method on 16 real scRNA-seq datasets.
+
+## Dataset
+
+1. 16 real scRNA-seq datasets used in the benchmark are available at https://drive.google.com/drive/folders/1QEdDC_nxn9BvxypvwQV1lioE0d_aeAGI?usp=sharing
