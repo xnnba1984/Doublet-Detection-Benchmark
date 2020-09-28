@@ -3,7 +3,7 @@
 
 doubeltdecon_real.R: DoubletDecon
 
-doubletFinder_real.R: DoubletFindr
+doubletFinder_real.R: DoubletFinder
 
 doubletcells_real.R: doubletCells
 
