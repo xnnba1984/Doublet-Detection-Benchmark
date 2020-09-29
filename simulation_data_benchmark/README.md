@@ -19,7 +19,7 @@ Each file includes the following code blocks that implement different functional
 
 1. Calculate doublet scores, AUPRC, and AUROC on simulation datasets under different doublet rates, cell types, sequencing depth, and heterogeneity between cell types.
 
-2. Impact of doublet detection on the identification of highly variable genes (HVGs)
+2. Impact of doublet detection on the identification of highly variable genes (HVGs). The Jaccard index between clean HVGs and contaminated HGVs, between clean HVGs and post-doublet-detection HVGs, were calculated to measure the impact.
 
 ## Some notes
 ### Solo
