@@ -21,7 +21,7 @@ solo_real.R: Solo
 
 Each file includes the following code blocks that implement different functionality. They are indicated by comments within each file.
 
-1. Calculate doublet scores, auprc, and auroc on 16 benchmark datasets.
+1. Calculate doublet scores, AUPRC, and AUROC on 16 benchmark datasets.
 
 2. Precision, recall, and true negative rate (TNR) under 10%, 20%, and 40% identification rates.
 
