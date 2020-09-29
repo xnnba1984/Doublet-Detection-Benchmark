@@ -33,7 +33,7 @@ Each file includes the following code blocks that implement different functional
 
 ## Some notes
 ### lsize and ngene
-The code of these two baseline methods does not contain the functionality of running time or stability. These two items are not compared in the manuscript.
+The code of these two baseline methods does not contain the functionality of running time or stability. These two items are not compared in the paper.
 ### DoubetDecon
 The code of DoubletDecon only calculated precision, recall, TNR, and running time because it provided doublet prediction without doublet scores.
 ### Solo
