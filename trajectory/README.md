@@ -2,7 +2,7 @@
 
 This folder contains the benchmark of doublet-detection methods in cell trajectory inference. Two simulation datasets, one bifurcating and one sequential, were used. Slingshot and minimum spanning tree (MST) were used to construct cell trajectories. Slingshot, TSCAN, and general additive model were used to infer the temporally expressed genes.
 
-## Cell trajectory inference and temporally expressed genes ananlysis conducted by Slingshot
+## Cell trajectory inference and temporally expressed genes analysis conducted by Slingshot
 
 doubletcells_trajectory_slingshot.R: doubletCells
 
@@ -18,11 +18,11 @@ solo_trajectory_slingshot.R: Solo
 
 ## Cell trajectory inference conducted by MST and GAM
 
-MST.R: all eight doublet detection methods, are included in this file, including negative and postive control
+MST.R: all eight doublet detection methods are included in this file, including negative and positive control
 
-## Temporally expressed genes ananlysis conducted by TSCAN and GAM
+## Temporally expressed genes analysis conducted by TSCAN and GAM
 
-TSCAN.R: all eight doublet detection methods, are included in this file, including negative and postive control
+TSCAN.R: all eight doublet detection methods are included in this file, including negative and positive control
 
 ## The functionality of each file
 ### Slingshot
