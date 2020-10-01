@@ -1,6 +1,6 @@
-# Doublet Detection Benchmark
+# Benchmarking computational doublet-detection methods for single-cell RNA sequencing data
 
-This repository contains the code and datasets used in the paper 'Benchmarking computational doublet-detection methods for single-cell RNA sequencing data'.
+This repository contains the code and datasets used in the paper 'Benchmarking computational doublet-detection methods for single-cell RNA sequencing data'. The preprint can be found at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3646565.
 
 ## Code Description
 
