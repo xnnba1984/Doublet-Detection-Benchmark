@@ -2,15 +2,23 @@
 
 This repository contains the code and datasets used in the paper 'Benchmarking computational doublet-detection methods for single-cell RNA sequencing data'. The preprint can be found at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3646565.
 
-## Code Description
+## Code Structure
 
-1. overall_real_stability: the code of detecting doublets in 16 real scRNA-seq datasets by 11 doublet-detection methods (including two baseline methods). Within each file, there are additional functions to reproduce stability evaluation.
-2. overall_sim: the code of detecting doublets in synthetic datasets by 8 doublet-detection methods under various experimental conditions.
-3. cluster: the code of measuring the effect of doublet-detection methods on downstream cell clustering analysis.
-4. DE: the code of measuring the effect of doublet-detection methods on downstream DE gene analysis.
-5. trajectory: the code of measuring the effect of doublet-detection methods on cell trajectory and pseudo time inference analysis.
-6. distribute: the code of measuring the performance of doublet-detection methods under distributed computing.
-7. time: the code of calcuating the running time of each doublet-detection method on 16 real scRNA-seq datasets.
+Each folder contains different benchmark studies described in the paper. There are detailed document within each fold to further expain their functionality. 
+
+1. real_data_benchmark: the benchmark of 11 doublet-detection methods on 16 real scRNA-seq datasets, including two baseline methods. In addition, accuracy under different identification rates, running time, and stability are also included.
+
+2. simulation_data_benchmark: the benchmark of 8 doublet-detection methods on simulated datasets under different experimental conditions, including doublet rates, cell types, sequencing depth, and heterogeneity between cell types. The impact of doublet detection on the identification of highly expressed genes (HVGs) is also included.
+
+3. clustering: effects of doublet-detection methods on downstream cell clustering analysis.
+
+4. DE: effects of doublet-detection methods on downstream DE genes analysis.
+
+5. trajectory: effects of doublet-detection methods on cell trajectory and temporally expressed gene analysis.
+
+6. distribute computing: Performance of doublet-detection methods under distributed computing
+
+7. time: scalability of doublet-detection methods.
 
 ## Dataset
 
