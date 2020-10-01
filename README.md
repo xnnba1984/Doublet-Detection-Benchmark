@@ -16,7 +16,7 @@ Each folder contains different benchmark studies described in the paper. There a
 
 5. trajectory: effects of doublet-detection methods on cell trajectory and temporally expressed gene analysis.
 
-6. distribute computing: Performance of doublet-detection methods under distributed computing
+6. distribute computing: performance of doublet-detection methods under distributed computing
 
 7. time: scalability of doublet-detection methods.
 
