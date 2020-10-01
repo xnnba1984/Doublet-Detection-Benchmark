@@ -4,7 +4,7 @@ This repository contains the code and datasets used in the paper 'Benchmarking c
 
 ## Code Structure
 
-Each folder contains different benchmark studies described in the paper. There are detailed document within each fold to further expain their functionality. 
+Each folder contains different benchmark studies described in the paper. There are detailed documents within each fold to further explain their functionality. 
 
 1. real_data_benchmark: the benchmark of 11 doublet-detection methods on 16 real scRNA-seq datasets, including two baseline methods. In addition, accuracy under different identification rates, running time, and stability are also included.
 
@@ -24,6 +24,6 @@ Each folder contains different benchmark studies described in the paper. There a
 
 1. 16 real scRNA-seq datasets with experimentally validated doublet annotations used in the benchmark are available at https://drive.google.com/drive/folders/1QEdDC_nxn9BvxypvwQV1lioE0d_aeAGI?usp=sharing.
 
-2. Simulation datasets with groud truth doublets used in the benchmark are available at https://drive.google.com/drive/folders/19Yk35U1Onj6Y4-AuYuvwFYUrGL7ysiqJ?usp=sharing. It includes datasets under varying doublet rates, cell types, sequencing depth, heterogeneity, and datasets used in the downstream analysis of cell clustering, DE gene, and cell trajecotory inference.
+2. Simulation datasets with ground truth doublets used in the benchmark are available at https://drive.google.com/drive/folders/19Yk35U1Onj6Y4-AuYuvwFYUrGL7ysiqJ?usp=sharing. It includes datasets under varying doublet rates, cell types, sequencing depth, heterogeneity, and datasets used in the downstream analysis of cell clustering, DE gene, and cell trajectory inference.
 
 3. All the datasets are also available at Zenodo https://zenodo.org/record/4062232#.X3YR9Hn0kuU。
