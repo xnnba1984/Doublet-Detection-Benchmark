@@ -20,6 +20,8 @@ Each folder contains different benchmark studies described in the paper. There a
 
 7. time: scalability of doublet-detection methods.
 
+8. graphics_paper.R: code scripts used to generate the figures reported in the paper.
+
 ## Dataset
 
 1. 16 real scRNA-seq datasets with experimentally validated doublet annotations used in the benchmark are available at https://drive.google.com/drive/folders/1QEdDC_nxn9BvxypvwQV1lioE0d_aeAGI?usp=sharing.
