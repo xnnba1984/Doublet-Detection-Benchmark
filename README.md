@@ -16,7 +16,7 @@ Each folder contains different benchmark studies described in the paper. There a
 
 5. trajectory: effects of doublet-detection methods on cell trajectory and temporally expressed gene analysis.
 
-6. distribute computing: performance of doublet-detection methods under distributed computing
+6. distribute computing: performance of doublet-detection methods under distributed computing.
 
 7. time: scalability of doublet-detection methods.
 
@@ -28,4 +28,4 @@ Each folder contains different benchmark studies described in the paper. There a
 
 2. Simulation datasets with ground truth doublets used in the benchmark are available at https://drive.google.com/drive/folders/19Yk35U1Onj6Y4-AuYuvwFYUrGL7ysiqJ?usp=sharing. It includes datasets under varying doublet rates, cell types, sequencing depth, heterogeneity, and datasets used in the downstream analysis of cell clustering, DE gene, and cell trajectory inference.
 
-3. All the datasets are also available at Zenodo https://zenodo.org/record/4062232#.X3YR9Hn0kuU。
+3. All the datasets are also available at Zenodo https://zenodo.org/record/4062232#.X3YR9Hn0kuU.
