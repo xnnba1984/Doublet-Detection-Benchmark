@@ -1,6 +1,6 @@
 # Benchmarking computational doublet-detection methods for single-cell RNA sequencing data
 
-This repository contains the code and datasets used in the paper 'Benchmarking computational doublet-detection methods for single-cell RNA sequencing data'. Please check the full text on [Cell Systems](https://www.sciencedirect.com/science/article/pii/S2405471220304592?dgcid=author) or [preprint](http://jsb.ucla.edu/sites/default/files/publications/final_author_manuscript_compressed.pdf).
+This repository contains the code and datasets used in the paper 'Benchmarking computational doublet-detection methods for single-cell RNA sequencing data'. Please check the full text published on [Cell Systems](https://www.sciencedirect.com/science/article/pii/S2405471220304592?dgcid=author) or our [preprint](http://jsb.ucla.edu/sites/default/files/publications/final_author_manuscript_compressed.pdf).
 
 ## Code Structure
 
